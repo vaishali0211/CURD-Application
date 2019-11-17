@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application02</string>
+    <string name="name">Enter Name</string>
+    <string name="phoneno">Enter Phone No</string>
+    <string name="emailid">Email Id</string>
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="view">View</string>
+
+
+
+
+
+</resources>
